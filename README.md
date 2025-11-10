@@ -1,6 +1,4 @@
-Class skipper at the University of Toronto. 
-
-Email preffered
+Class skipper at the University of Toronto. Email preffered.
 
 jaehyeong[dot]park[at]outlook[dot]com
 
