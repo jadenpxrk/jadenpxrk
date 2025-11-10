@@ -1,10 +1,12 @@
+Class skipper at the University of Toronto. 
+
 Email preffered
 
 jaehyeong[dot]park[at]outlook[dot]com
 
 or 
 
-me[at]jadenpark.ca
+me[at]jadenpark.ca 
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
