@@ -1,4 +1,4 @@
-Class skipper at the University of Toronto. Email preffered.
+I study engineering at the University of Toronto. Email preffered.
 
 jaehyeong[dot]park[at]outlook[dot]com
 
